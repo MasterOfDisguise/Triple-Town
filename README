@@ -1,0 +1,9 @@
+In this program I implemented a simplified version of the game Triple Town. It was a fun exercise that
+gave me some experience writing algorithms to check whether pieces were connected together and if they
+could combine or not.
+
+Requirements:
+  - Python 2.7
+  - Pygame
+
+Run 'Game.py' to start
